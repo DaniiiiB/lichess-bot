@@ -1,0 +1,24 @@
+{
+  "name": "lichess-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^7.23.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "dotenv": "^9.0.0",
+    "node-fetch": "^2.6.1",
+    "prompt-sync": "^4.2.0",
+    "python-shell": "^3.0.0"
+  }
+}
